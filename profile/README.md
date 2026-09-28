@@ -6,14 +6,14 @@ Lumeniora is a personal research and development lab where I build, explore, and
 
 ## Focus
 
-- **iOS** — Native Swift and SwiftUI applications
-- **Web** — Modern web platforms and product interfaces
-- **Python** — Automation, developer tools, data processing, and backend systems
-- **R&D** — Prototypes, experiments, and ideas worth exploring
+- **iOS** - Native Swift and SwiftUI applications
+- **Web** - Modern web platforms and product interfaces
+- **Python** - Automation, developer tools, data processing, and backend systems
+- **R&D** - Prototypes, experiments, and ideas worth exploring
 
 ## Projects
 
-Lumeniora brings together independent projects at different stages — from early experiments and prototypes to products built for real users.
+Lumeniora brings together independent projects at different stages - from early experiments and prototypes to products built for real users.
 
 Some projects may become standalone products. Others exist simply to explore a technology, solve a problem, or learn something new.
 
