@@ -1,11 +1,20 @@
-# 💡 Lumeniora
+# Lumeniora
 
-Welcome to **Lumeniora** — a personal research and development hub. 
-This organization serves as a structured ecosystem for my independent projects, experiments, and production-ready applications.
+**Independent R&D lab for software, products, and ideas.**
 
-### 🛠 Tech Stack & Ecosystem
-* **iOS Development:** Native Swift, SwiftUI, and robust mobile architectures.
-* **Web Platforms:** Modern frontend frameworks, scalable architectures, and clean UI/UX.
-* **Python Systems:** Automation scripts, backend APIs, data processing, and AI integrations.
+Lumeniora is a personal research and development lab where I build, explore, and ship software projects - from production-ready applications to experimental tools and new product concepts.
 
-*“Illuminating complex problems with elegant software development.”*
+## Focus
+
+- **iOS** — Native Swift and SwiftUI applications
+- **Web** — Modern web platforms and product interfaces
+- **Python** — Automation, developer tools, data processing, and backend systems
+- **R&D** — Prototypes, experiments, and ideas worth exploring
+
+## Projects
+
+Lumeniora brings together independent projects at different stages — from early experiments and prototypes to products built for real users.
+
+Some projects may become standalone products. Others exist simply to explore a technology, solve a problem, or learn something new.
+
+> Build. Explore. Refine.
